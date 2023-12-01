@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/npc__react-app/static/css/main.f4a9aaf5.css",
+    "main.js": "/npc__react-app/static/js/main.0922a29d.js",
+    "static/media/video.mp4": "/npc__react-app/static/media/video.a2703484bb9eee7d0c2e.mp4",
+    "static/media/terminal.png": "/npc__react-app/static/media/terminal.008c23b28e62ddbd576c.png",
+    "index.html": "/npc__react-app/index.html",
+    "main.f4a9aaf5.css.map": "/npc__react-app/static/css/main.f4a9aaf5.css.map",
+    "main.0922a29d.js.map": "/npc__react-app/static/js/main.0922a29d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4a9aaf5.css",
+    "static/js/main.0922a29d.js"
+  ]
+}
